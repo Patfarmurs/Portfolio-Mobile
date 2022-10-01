@@ -1,21 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Project Name
+Portfolio set up Mobile vresion
 > Description the project.
 ## Built With
+html & css
 - Major languages
 - Frameworks
 - Technologies used
+- Vscode
 ## Live Demo (if available)
 [Live Demo Link](https://livedemo.com)
-## Getting Started
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
+Basic html and Css
 
 ## Authors
 👤 **Author1**
